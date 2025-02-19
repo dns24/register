@@ -4,6 +4,7 @@
     "email": "wahidns24@gmail.com"
   },
   "record": {
-    "CNAME": "dns24.github.io"
+    "CNAME": "dns24.github.io",
+    "NS": ["javier.ns.cloudflare.com", "kiki.ns.cloudflare.com"]
   }
 }
